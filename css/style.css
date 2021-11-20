@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans|Istok+Web|Rubik&display=swap');
+html{
+  min-height: 100%;
+}
+.navbar-container{
+  padding: 0 0 0 0px; 
+  min-height: 100vh;
+  height: 900px;
+  max-height: 3400px;
+  background: #343A40;
+}
+.content-container{
+  height: 100vh;
+}
+.link{
+  font-size: 19px;
+  font-family: 'Rubik', sans-serif;
+  color:white;
+  transition: .2s;
+}
+.link:hover{
+  color:#b2bec3;
+}
+.navbar-brand h2{
+  font-weight: 600;
+  font-family: 'Istok Web', sans-serif;
+}
+.jumbotron{
+  background: white;
+}
+.breadcrumb{
+  background: white;
+}
+.rubik-font{
+  font-family: 'Rubik', sans-serif;
+  font-weight: 600;
+}
+.table-thead{
+  color:grey;
+}
